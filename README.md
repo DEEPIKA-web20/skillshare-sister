@@ -4,7 +4,7 @@ Skillshare Sisters is a full-stack web platform that helps women showcase their 
 ## 🚀 Setup
 ## 📸 Project Screenshot
 
-![skillshare-sister Dashboard](screenshots/website .png)
+![skillshare-sister Dashboard](screenshots/website.png)
 
 ### Backend
 cd server
